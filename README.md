@@ -1,2 +1,6 @@
-# rocket-js-docs
-Rocket Docs - The documentation repo for Rocket (JS) library.
+# Meet the Rocket
+
+Hi, this is Rocket!
+
+![](<.gitbook/assets/Rocket JS Cover.png>)
+
